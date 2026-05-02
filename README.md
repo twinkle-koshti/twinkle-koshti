@@ -1,26 +1,27 @@
 <p align="center">
+  <h1>Twinkle Koshti</h1>
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Twinkle+Koshti;Full-Stack+Developer;AI/ML+Enthusiast;Cyber+Security+Learner;Building+Smart+%26+Secure+Systems" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=twinkle-koshti&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 # 💻 Full-Stack Developer | 🤖 AI/ML | 🔐 Cyber Security
 
-🚀 I build scalable web applications and explore AI/ML and Cyber Security to create intelligent and secure systems.
+🚀 I build scalable, high-performance web applications and explore AI/ML and Cyber Security to create intelligent, secure, and real-world solutions.
 
 ---
 
-## 🌐 Portfolio & Links
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:yourmail@gmail.com">📧 Email</a> |
-  <a href="https://github.com/YOUR_USERNAME">💻 GitHub</a> |
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">🔗 LinkedIn</a> |
-  <a href="https://your-portfolio.com">🌐 Portfolio</a>
+  <a href="mailto:twinkleljku@gmail.com">📧 Email</a> |
+  <a href="https://github.com/twinkle-koshti">💻 GitHub</a> |
+  <a href="www.linkedin.com/in/twinkle-koshti2005">🔗 LinkedIn</a> |
+  <a href="#">🌐 Portfolio</a>
 </p>
 
 ---
@@ -29,8 +30,8 @@
 
 ### 💻 Frontend
 
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
 ![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge\&logo=angular)
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge\&logo=react)
@@ -38,7 +39,7 @@
 ### ⚙️ Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
+![Express.js](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
 
 ### 🗄️ Database
 
@@ -62,24 +63,24 @@
 
 ## 🚀 Projects
 
-* 🔹 **InfluenceHub** – Instagram-like social media platform (Django)
-* 🔹 **Mental Health App** – Android application
-* 🔹 **Voice Assistant** – Python + Streamlit
-* 🔹 **Face Recognition System** – AI/ML
-* 🔹 **Ragify** – RAG-based app (Python)
-* 🔹 **Ragify (MEAN)** – Full-stack implementation
+* 🔹 **InfluenceHub** – Instagram-like social media platform built with Django
+* 🔹 **Mental Health App** – Android application focused on user well-being
+* 🔹 **Voice Assistant** – Python + Streamlit based assistant
+* 🔹 **Face Recognition System** – AI/ML-based security system
+* 🔹 **Ragify** – Retrieval-Augmented Generation (RAG) application using Python
+* 🔹 **Ragify (MEAN)** – Full-stack implementation using MEAN stack
 * 🔹 **Devly** – MERN stack application
-* 🔹 **Airline Reservation System** – Laravel
+* 🔹 **Airline Reservation System** – Laravel-based system
 
 ---
 
 ## 🏆 Achievements
 
-* 🥇 Built multiple full-stack applications
-* 🤖 Developed AI/ML-based systems
-* 💡 Created real-world tools (Voice Assistant, RAG apps)
-* 📱 Built Android application
-* 🚀 Continuous learner & builder
+* 🥇 Built multiple full-stack applications across MERN, MEAN, and Django
+* 🤖 Developed AI/ML-based systems including Face Recognition
+* 💡 Created real-world tools like Voice Assistant and RAG applications
+* 📱 Designed and developed a Mental Health Android application
+* 🚀 Continuous learner focused on building impactful solutions
 
 ---
 
@@ -87,16 +88,16 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=twinkle-koshti&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=twinkle-koshtE&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=twinkle-koshti&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🎯 Current Focus
 
-* 🚀 Advanced Full-Stack Development
-* 🤖 AI/ML real-world projects
-* 🔐 Cyber Security fundamentals
+* 🚀 Advancing Full-Stack Development skills
+* 🤖 Building real-world AI/ML applications
+* 🔐 Learning Cyber Security fundamentals
 
 ---
 
